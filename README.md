@@ -11,12 +11,12 @@ This application is an iOS application built on the foundation of the **MVVM arc
 ## Sign Up & Log In Screen
 
 <p align="center">
-  <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/c6f5a92b-b35d-4dcb-945c-b252da91f80e" alt="zyro-image" width="200" height="450" />
-    <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/4d589981-d477-422d-b92f-751a665ebabc" alt="zyro-image" width="200" height="450" />
-    <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/cf402093-b0ae-44f2-bfa4-8a0c61c154df" alt="zyro-image" width="200" height="450" />
-    <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/7ff9a615-df2c-40bb-b6eb-5dce4871910a" alt="zyro-image" width="200" height="450" />
-    <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/4f1eafc6-411f-41f3-a2bd-603f64c4fb05" alt="zyro-image" width="200" height="450" />
-    <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/fece7bab-5cac-4c4c-8aed-6383079754b2" alt="zyro-image" width="200" height="450" />
+  <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/e8d9ae4e-5e21-40cb-9b39-064bac4f5709" alt="zyro-image" width="200" height="450" />
+    <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/852d8e12-e6d4-49bc-a9cd-b09b689857fa" alt="zyro-image" width="200" height="450" />
+    <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/49317867-ddac-4458-8edc-242f1dd39f47" alt="zyro-image" width="200" height="450" />
+    <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/54c9892b-28dc-4a17-8ec3-2af76a3bf7d7" alt="zyro-image" width="200" height="450" />
+    <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/814ac7cf-6fa4-45fe-97f2-1d0619319784" alt="zyro-image" width="200" height="450" />
+    <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/49130bcf-ba94-4fd0-9afd-304365e53320" alt="zyro-image" width="200" height="450" />
     </p>
 A user authentication screen is created using the SwiftUI and Combine frameworks.
 
@@ -47,9 +47,9 @@ Uses **alerts** to display informational messages to the user.
 ## Main Screen
 
 <p align="center">
-  <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/8dcdeb79-adee-43b7-8c6b-03d2d4696b16" alt="zyro-image" width="200" height="450" />
-    <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/0413a9eb-3652-4083-9c34-f77daaeb39e6" alt="zyro-image" width="200" height="450" />
-      <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/a3d8290c-71ca-4257-be82-09b6953820f8" alt="zyro-image" width="200" height="450" />
+  <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/77d6ea34-b385-4940-92e8-0600e930db5f" alt="zyro-image" width="200" height="450" />
+    <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/ba2afbdc-a6ba-4fa7-9d4a-3a1f130affa9" alt="zyro-image" width="200" height="450" />
+      <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/eba112b1-9cc1-429a-848f-df9af1cbb3bc" alt="zyro-image" width="200" height="450" />
     </p>
     
 Retrieving product data using Firebase, it creates a list based on this data and provides a screen displaying details for each product. Additionally, it downloads and displays product images from Firebase Storage.
@@ -82,16 +82,14 @@ It also supports adding data to Firestore. Clicking on the Apple logo on a produ
 - SwiftUI defines the user interface using a declarative language.
 - Data fetching and image downloading operations are carried out asynchronously and managed using Combine.
 
-
 ## Favorite Screen
 
 <p align="center">
-  <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/217d3ae9-0df3-427d-822e-50e72a590700" alt="zyro-image" width="200" height="450" />
-    <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/99c5eaa5-6184-4b93-87ff-0795791e87ff" alt="zyro-image" width="200" height="450" />
-      <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/556d48d7-6065-41aa-858f-20a761852e91" alt="zyro-image" width="200" height="450" />
+  <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/8f25b28a-e683-4a5d-8c1a-6d51950e6107" alt="zyro-image" width="200" height="450" />
+  <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/7ce5842d-64a4-43d2-8bf3-ea6bd00ea62b" alt="zyro-image" width="200" height="450" />
+  <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/bbea2271-a072-40d4-acf1-06f7fef04e0a" alt="zyro-image" width="200" height="450" />
     </p>
 
-    
 Creating a page that manages a list of favorite products using **SwiftUI and the Combine framework**.
 
 ### Functionalities
@@ -123,12 +121,12 @@ Creating a page that manages a list of favorite products using **SwiftUI and the
 ## Product Detail Screen
 
 <p align="center">
-  <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/d351bb37-b423-4de4-b214-7351612528ca" alt="zyro-image" width="200" height="450" />
-    <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/34e9d055-5003-4f0a-8e94-98e294a4fa50" alt="zyro-image" width="200" height="450" />
-      <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/fd27e621-e242-4a02-a9ec-5088d37d6aea" alt="zyro-image" width="200" height="450" />
-      <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/ddbf09b2-6085-4da5-b393-2429a4cf0741" alt="zyro-image" width="200" height="450" />
-      <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/6472c8fb-e876-4e68-89b8-987f71c84ce6" alt="zyro-image" width="200" height="450" />
-      <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/e1462b82-8022-40a8-99b1-f99228794c3a" alt="zyro-image" width="200" height="450" />
+  <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/4778e313-8132-4e9e-84b0-3882a04b7d74" alt="zyro-image" width="200" height="450" />
+    <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/99ea9606-450d-483b-bd1f-d67a0e3257ec" alt="zyro-image" width="200" height="450" />
+      <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/7ef5687e-d4a6-4025-a70f-0363d058b303" alt="zyro-image" width="200" height="450" />
+      <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/654cc18f-6f58-46bf-baed-b1d00c704b07" alt="zyro-image" width="200" height="450" />
+      <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/ec68795b-b163-4571-82ee-d3343079e45f" alt="zyro-image" width="200" height="450" />
+      <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/271dbe38-eaac-4b38-b8d7-6f660987c434" alt="zyro-image" width="200" height="450" />
     </p>
 
 
@@ -161,9 +159,9 @@ This page is used to display product details and store information related to th
 ## Cart Screen
  
  <p align="center">
-   <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/dba81701-c749-4d15-968b-2162f454fa2b" alt="zyro-image" width="200" height="450" />
-   <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/0726cf9e-a1db-41cb-82a6-b170d82c31a5" alt="zyro-image" width="200" height="450" />
-   <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/1acf0f72-7335-47a0-9836-ce7124c51132" alt="zyro-image" width="200" height="450" />
+   <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/cdc2d61a-0146-4a44-9286-412afe75ee68" alt="zyro-image" width="200" height="450" />
+   <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/a3ab6c06-92ce-44db-947f-d24906e5c577" alt="zyro-image" width="200" height="450" />
+   <img src="https://github.com/oykuhazer/AppleTrade/assets/130215854/c74eaf81-5089-46f7-a81c-4a27672a31b8" alt="zyro-image" width="200" height="450" />
     </p>
 
  The page that manages a shopping cart list using the SwiftUI and Combine frameworks.
